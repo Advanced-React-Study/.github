@@ -1,6 +1,6 @@
 ## 📖 React & Recoil Study 
 ### 진행 방식
-- Javascript 클린코드, React 성능최적화/리팩토링과 Recoil을 공부한다.
+- Javascript 클린코드, React 성능최적화/리팩토링과 상태관리 라이브러리인 Recoil을 공부함
 - 일주일동안 정해진 분량 공부 + 기능 구현
 - 스터디 때 각자의 코드를 설명한 후 다같이 코드 리뷰
 - 레포지토리 이름 앞에 본인 이름 이니셜 붙여서 생성하기 (Ex. KGE_EmotionDiary)
